@@ -1,0 +1,6 @@
+Flask 
+BeautifulSoup4 
+requests 
+pandas 
+SQLAlchemy 
+openai
